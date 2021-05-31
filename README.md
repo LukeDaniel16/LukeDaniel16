@@ -1,0 +1,4 @@
+- 👋 Olá, me chamo Lucas Daniel.
+- 👀 Atualmente, estou interessado em Desenvolvimento web ASP.NET e Vue.JS
+- 🌱 Atualmente estou aprendendo ASP.NET Core MVC
+- 📫 Você pode encontrar mais sobre mim [no meu linkedin](https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/)
