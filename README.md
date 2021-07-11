@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Lucas Daniel.
-- 👀 Atualmente, estou interessado em Desenvolvimento web ASP.NET e Vue.JS
-- 🌱 Atualmente estou aprendendo ASP.NET Core MVC
-- 📫 Você pode encontrar mais sobre mim [no meu linkedin](https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/)
+- 👋 Olá, me chamo Lucas Daniel, nascido em Teotônio Vilela - AL, atualmente morando em Morrinhos - GO.
+- :computer: Atualmente, estou interessado em BackEnd com ASP.NET e GoLang e para o FrontEnd Vue.JS e Nuxt.JS.
+- :office: Estou trabalhando com ASP.NET Core MVC e Vue.JS.
+- 📫 Você pode encontrar mais sobre mim [no meu linkedin](https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/).
