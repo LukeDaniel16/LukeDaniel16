@@ -1,4 +1,4 @@
 - 👋 Olá, me chamo Lucas Daniel, nascido em Teotônio Vilela - AL, atualmente morando em Morrinhos - GO.
-- :computer: Atualmente, estou interessado em BackEnd com ASP.NET e para o FrontEnd Vue.JS e Nuxt.JS, além de entusiasta em Angular.
-- :office: Estou trabalhando com ASP.NET Core MVC e ASP.NET (aspx).
+- :computer: Atualmente, estou interessado em BackEnd com ASP.NET e para o FrontEnd Vue.JS e Nuxt.JS, além de melhorando meus conhecimentos em Angular (12+).
+- :office: Estou trabalhando com ASP.NET Core, com projetos MVC, WebApi, WPF, WCF Services e ASP.NET Clássico (aspx).
 - 📫 Você pode encontrar mais sobre mim [no meu linkedin](https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/).
