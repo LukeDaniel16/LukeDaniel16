@@ -8,5 +8,3 @@
 
 📫 Você pode encontrar mais sobre mim [no meu linkedin](https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/).
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Lucas Daniel&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
